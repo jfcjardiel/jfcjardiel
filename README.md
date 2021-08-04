@@ -1,4 +1,4 @@
-## Hii My name is Jardiel
+## Hey!
 
 - I used to work as a Telecommunication Engineer
 - I started to work with computer network, dealing with MPLS tecnology applied into a Energy Company Environment
